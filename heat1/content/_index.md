@@ -3,7 +3,7 @@ date: "2020-03-06T18:27:58+01:00"
 title: "Home"
 ---
 
-H.E.A.T would welcome you to join our journey to provide a more accessibile higher educational technology.
+H.E.A.T welcome you to join our journey to provide a more accessibile higher educational technology.
 You would find  following information on our website:
 
 - Upcoming webinars and events
