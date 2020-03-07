@@ -13,7 +13,7 @@ You would find  following information on our website:
 
 Upcoming Events:
 
-Wade in the water:where to start on Web Accessibility
+Wading in the WCAG Waters: First Steps Toward Facilitating Accessibility Change at your Institution
 
 By Michele Bromley, IT Accessibility Coordinator, Portland State University
 
