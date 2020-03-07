@@ -5,11 +5,11 @@ title: "Home"
 
 H.E.A.T would welcome you to join our journey to provide a more accessibile higher educational technology.
 You would find  following information on our website:
-{{< ticks >}}
-* Upcoming webinars and events
-* Documents on Accessibility
-* Accessibility Resources
-{{< /ticks >}}
+
+- Upcoming webinars and events
+- Documents on Accessibility
+- Accessibility Resources
+
 
 Upcoming Events:
 
