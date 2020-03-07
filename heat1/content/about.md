@@ -1,16 +1,19 @@
 ---
-date: "2014-04-09"
+date: "2020-03-06"
 title: "About"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+# Joint Accessibility Working Group Members
 
-It makes use of a variety of open source projects including:
+## Co-Chair
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+- Marianne Colgrove, Reed College (NWACC)
+- Kun Lin, Whitman College (Alliance)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Members
+- Ann Harris, University of Portland
+- Gloria Doherty, Georgefox University
+- Sasi Pillay, Washington State University
+- Wendy Steele, Washington State University
+
+
