@@ -1,6 +1,6 @@
 ---
 date: "2020-03-23T14:27:58+01:00"
-title: "Home"
+title: "Accessibility and Higher Education"
 ---
 
 Higher Education Accessibility Technology group welcome you to join our journey to provide a more accessibile higher educational technology for learning. This is a joint working group by Orbis Cascade Alliance and NorthWest Academic Computing Consortium.
