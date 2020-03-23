@@ -1,5 +1,5 @@
 ---
-date: "2020-03-06T18:27:58+01:00"
+date: "2020-03-23T14:27:58+01:00"
 title: "Home"
 ---
 
@@ -18,5 +18,7 @@ Wading in the WCAG Waters: First Steps Toward Facilitating Accessibility Change 
 By Michele Bromley, IT Accessibility Coordinator, Portland State University
 
 Time TBD
+
 via Zoom
-RSVP Link comping soon
+
+RSVP Link coming soon
