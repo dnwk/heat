@@ -3,7 +3,7 @@ date: "2020-03-06T18:27:58+01:00"
 title: "Home"
 ---
 
-H.E.A.T welcome you to join our journey to provide a more accessibile higher educational technology.
+Higher Education Accessibility Technology group welcome you to join our journey to provide a more accessibile higher educational technology for learning. This is a joint working group by Orbis Cascade Alliance and NorthWest Academic Computing Consortium.
 You would find  following information on our website:
 
 - Upcoming webinars and events
@@ -17,6 +17,6 @@ Wading in the WCAG Waters: First Steps Toward Facilitating Accessibility Change 
 
 By Michele Bromley, IT Accessibility Coordinator, Portland State University
 
-April 14  10AM - 11AM
+Time TBD
 via Zoom
-[RSVP](http://www.google.com)
+RSVP Link comping soon
