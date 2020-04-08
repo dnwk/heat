@@ -11,7 +11,7 @@ You would find  following information on our website:
 - Accessibility Resources
 
 
-##Upcoming Events:
+## Upcoming Events:
 
 Wading in the WCAG Waters: First Steps Toward Facilitating Accessibility Change at your Institution
 
