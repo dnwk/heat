@@ -1,7 +1,7 @@
 baseURL: https://nwheat.org
 languageCode: en-us
 defaultContentLanguage: en
-title: Northwest Higher Education Accessibility Team
+title: Northwest Higher Education Accessibility Technology Group
 theme: cupper-hugo-theme
 enableGitInfo: true
 
@@ -15,7 +15,10 @@ imaging:
   quality: 99
 
 params:
-  description: Joint Project between Northwest Academic Computing Consortium and Orbis Cascade Alliance.
+  description: 
+  Northwest Higher Education Accessibility Technology Group
+  
+  Joint Project between Northwest Academic Computing Consortium and Orbis Cascade Alliance.
   homeMetaContent: H.E.A.T would welcome you to join our journey to provide a more accessibile higher educational technology.
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
