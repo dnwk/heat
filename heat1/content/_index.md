@@ -1,14 +1,9 @@
 ---
-date: "2020-04-07T17:27:58+01:00"
+date: "2020-04-08T10:27:58+01:00"
 title: "Accessibility and Higher Education"
 ---
 
-Higher Education Accessibility Technology group welcome you to join our journey to provide a more accessibile higher educational technology for learning. This is a joint working group by Orbis Cascade Alliance and NorthWest Academic Computing Consortium.
-You would find  following information on our website:
-
-- Upcoming webinars and events
-- Documents on Accessibility
-- Accessibility Resources
+NW Higher Education Accessible Technology group welcomes you to join us in the journey to provide resources for a more accessible higher educational learning environment. This site is new and will soon include many additional resources.
 
 
 ## Upcoming Events:
@@ -37,4 +32,4 @@ Michele Bromley is the IT Accessibility Coordinator for the Office of Informatio
 Time: April 29, 2020, 2 p.m.
 
 
-RSVP Link coming soon
+[RSVP](https://zoom.us/meeting/register/upAudOuurzIqxMtRFGjzg9o6TQMV6AV1XQ)
