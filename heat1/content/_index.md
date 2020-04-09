@@ -12,6 +12,10 @@ NW Higher Education Accessible Technology group welcomes you to join us in the j
 
 By Michele Bromley, IT Accessibility Coordinator, Portland State University
 
+Time: April 29, 2020, 2 p.m.
+
+[RSVP](https://zoom.us/meeting/register/upAudOuurzIqxMtRFGjzg9o6TQMV6AV1XQ)
+
 Abstract
 
 The necessity for working toward more inclusive, accessible digital spaces on our college campuses is becoming increasingly urgent. Legal considerations notwithstanding, there are ethical and practical imperatives for ensuring that digital resources and environments are as accessible and usable as possible for all users. But where do we begin? How can individuals act as catalysts for institutional change when that change requires community, investment, policy, and resource development? This presentation will outline first steps toward real accessibility change and provide an introduction to the Web Content Accessibility Guidelines (WCAG) that can bring that reality closer.
@@ -30,6 +34,5 @@ Michele Bromley is the IT Accessibility Coordinator for the Office of Informatio
 
 
 Time: April 29, 2020, 2 p.m.
-
 
 [RSVP](https://zoom.us/meeting/register/upAudOuurzIqxMtRFGjzg9o6TQMV6AV1XQ)
