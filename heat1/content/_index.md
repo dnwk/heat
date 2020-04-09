@@ -8,7 +8,7 @@ NW Higher Education Accessible Technology group welcomes you to join us in the j
 
 ## Upcoming Events:
 
-Wading in the WCAG Waters: First Steps Toward Facilitating Accessibility Change at your Institution
+### Wading in the WCAG Waters: First Steps Toward Facilitating Accessibility Change at your Institution
 
 By Michele Bromley, IT Accessibility Coordinator, Portland State University
 
