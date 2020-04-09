@@ -15,7 +15,7 @@ imaging:
   quality: 99
 
 params:
-  description: Northwest Higher Education Accessibility Technology Group, a Joint Project between Northwest Academic Computing Consortium and Orbis Cascade Alliance.  
+  description: Northwest Higher Education Accessibility Technology Group \n a Joint Project between Orbis Cascade Alliance and Northwest Academic Computing Consortium.  
   homeMetaContent: H.E.A.T would welcome you to join our journey to provide a more accessibile higher educational technology.
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
