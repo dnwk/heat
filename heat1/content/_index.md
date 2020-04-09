@@ -12,9 +12,7 @@ NW Higher Education Accessible Technology group welcomes you to join us in the j
 
 By Michele Bromley, IT Accessibility Coordinator, Portland State University
 
-Time: April 29, 2020, 2 p.m.
-
-[RSVP](https://zoom.us/meeting/register/upAudOuurzIqxMtRFGjzg9o6TQMV6AV1XQ)
+Time: April 29, 2020, 2 p.m.  [RSVP](https://zoom.us/meeting/register/upAudOuurzIqxMtRFGjzg9o6TQMV6AV1XQ)
 
 Abstract
 
