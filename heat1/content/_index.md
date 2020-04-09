@@ -12,7 +12,7 @@ NW Higher Education Accessible Technology group welcomes you to join us in the j
 
 By Michele Bromley, IT Accessibility Coordinator, Portland State University
 
-Time: April 29, 2020, 2 p.m.  [RSVP](https://zoom.us/meeting/register/upAudOuurzIqxMtRFGjzg9o6TQMV6AV1XQ)
+Time: April 29, 2020, 2 p.m.  **Register Now!** [RSVP](https://zoom.us/meeting/register/upAudOuurzIqxMtRFGjzg9o6TQMV6AV1XQ)
 
 Abstract
 
@@ -31,6 +31,4 @@ Biography
 Michele Bromley is the IT Accessibility Coordinator for the Office of Information Technology at Portland State University (PSU). In this capacity, she serves as a digital accessibility resource for the university—providing support, technical direction, and assessment related to the accessibility of new and existing information and communication technologies. Michele's primary areas of expertise are accessible digital design, digital accessibility validation, alternative media, and adaptive technology. She has presented regionally and nationally on these topics and currently serves on the Executive Council for the Access Technology Higher Education Network.
 
 
-Time: April 29, 2020, 2 p.m.
-
-[RSVP](https://zoom.us/meeting/register/upAudOuurzIqxMtRFGjzg9o6TQMV6AV1XQ)
+Time: April 29, 2020, 2 p.m. [RSVP](https://zoom.us/meeting/register/upAudOuurzIqxMtRFGjzg9o6TQMV6AV1XQ) **Register Now!**
