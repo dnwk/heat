@@ -9,7 +9,7 @@ The Orbis Cascade Alliance (Alliance) and Northwest Academic Computing Consortiu
 
 Contact: contact@nwheat.org
 
-Appointed Working Group Members:
+# Appointed Working Group Members:
 
 ## Co-Chair
 
