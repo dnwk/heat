@@ -8,4 +8,6 @@ NW Higher Education Accessible Technology group welcomes you to join us in our j
 
 ## Upcoming Events:
 
-### To be announced. 
+Recording of ther most recent webinars are available under [Webinar Archives](/webinar/) page. 
+
+### Additional webinars will be announced soon. 

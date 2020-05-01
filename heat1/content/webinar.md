@@ -24,6 +24,8 @@ Biography
 
 Michele Bromley is the IT Accessibility Coordinator for the Office of Information Technology at Portland State University (PSU). In this capacity, she serves as a digital accessibility resource for the university—providing support, technical direction, and assessment related to the accessibility of new and existing information and communication technologies. Michele's primary areas of expertise are accessible digital design, digital accessibility validation, alternative media, and adaptive technology. She has presented regionally and nationally on these topics and currently serves on the Executive Council for the Access Technology Higher Education Network.
 
+Recording of the webinar: 
+
 [![Recording of the webinar](/images/Michele_04292020.png)](https://drive.google.com/file/d/1PEBm38uWV2Qvjf16GXlFZ4WXq0-I2GjY/preview)
 
 [Transcripts of the webinar](/documents/Bromley_Accessibility_04292020.pdf) 
