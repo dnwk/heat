@@ -36,7 +36,7 @@ menu:
     - name: About
       url: /about/
       weight: 2
-    - name: Webinar
+    - name: Webinar Archives
       url: /webinar/
       weight: 3
 
