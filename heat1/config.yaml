@@ -36,6 +36,9 @@ menu:
     - name: About
       url: /about/
       weight: 2
+    - name: Webinar
+      url: /webinar/
+      weight: 3
 
 
 markup:
