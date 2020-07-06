@@ -15,7 +15,7 @@ Recording of ther most recent webinars are available under [Webinar Archives](/w
 Andy Andrews, UW Libraries Accessibility Coordinator will discuss processes and materials for accessibility testing online resources and applications in libraries. Hilary Robbeloth, University of Puget Sound System & Discovery Librarian, will present the Alliance User Testing Toolkit as well as plans to develop a new accessibility testing toolkit.
 
 #### Presentation title 
-Accessibility Testing: Training for Libraries Staff
+[Accessibility Testing: Training for Libraries Staff](https://nwheat.org/documents/Accessibility%20Testing%20Training%20for%20Libraries%20Staff.pdf)
 Andy Andrews, UW Libraries Accessibility Coordinator
 #### Description
 The UW Libraries is committed to providing equitable access to digital library resources. With the help of UW-IT’s Assistive Technology Services a small group of library staff created materials to facilitate workshops to train Libraries staff on how to evaluate and test online resources and applications to ensure they are accessible to patrons with disabilities. This presentation will briefly cover the process UW Libraries went through in creating our materials for audit basics, issue logging, and report writing. I will also discuss the value of sharing testing results for our patrons, other institutions, and vendors. 
@@ -23,7 +23,7 @@ The UW Libraries is committed to providing equitable access to digital library r
 Andy Andrews is the Accessibility Coordinator for the University of Washington Libraries. Since joining the Libraries in 2018, he has championed accessibility throughout the Libraries by empowering staff every day to improve the accessibility of their own work and services. He co-chairs the Accessibility Working group at the UW Libraries as well as a member of the DUX Accessibility Standing Group. 
 
 #### Presentation title
-Alliance User Testing Toolkit
+[Alliance User Testing Toolkit](https://nwheat.org/documents/Alliance%20User%20Testing%20Toolkit.pdf)
 Hilary Robbeloth, University of Puget Sound, Systems & Discovery Librarian
 #### Description
 The User Testing Toolkit was created by the User Testing Toolkit Project Group (UTTPG) under the Orbis Cascade Alliance Discovery & User Experience (DUX) Team in 2018 to support member interest in performing user testing.  In this presentation I will show some of the aspects of the toolkit I find to be the most useful, including the FAQ which points to resources and how-tos, sample documents, and a testing overview. I also encourage the audience to reach out if there are resources they want to recommend or sample documents they can contribute to build the toolkit further. The newly formed DUX Accessibility Group is currently building an accessibility toolkit and I will give a very brief update on its progress.  
