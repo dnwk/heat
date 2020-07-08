@@ -23,7 +23,7 @@ The UW Libraries is committed to providing equitable access to digital library r
 Andy Andrews is the Accessibility Coordinator for the University of Washington Libraries. Since joining the Libraries in 2018, he has championed accessibility throughout the Libraries by empowering staff every day to improve the accessibility of their own work and services. He co-chairs the Accessibility Working group at the UW Libraries as well as a member of the DUX Accessibility Standing Group. 
 
 #### Presentation title
-[Alliance User Testing Toolkit](https://nwheat.org/documents/Alliance%20User%20Testing%20Toolkit.pdf)
+[Alliance User Testing Toolkit](https://nwheat.org/documents/Alliance%20User%20Testing%20Toolkit.pdf) *Accessible version coming soon* 
 Hilary Robbeloth, University of Puget Sound, Systems & Discovery Librarian
 #### Description
 The User Testing Toolkit was created by the User Testing Toolkit Project Group (UTTPG) under the Orbis Cascade Alliance Discovery & User Experience (DUX) Team in 2018 to support member interest in performing user testing.  In this presentation I will show some of the aspects of the toolkit I find to be the most useful, including the FAQ which points to resources and how-tos, sample documents, and a testing overview. I also encourage the audience to reach out if there are resources they want to recommend or sample documents they can contribute to build the toolkit further. The newly formed DUX Accessibility Group is currently building an accessibility toolkit and I will give a very brief update on its progress.  
