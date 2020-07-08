@@ -16,6 +16,7 @@ Andy Andrews, UW Libraries Accessibility Coordinator will discuss processes and 
 
 #### Presentation title 
 [Accessibility Testing: Training for Libraries Staff](https://nwheat.org/documents/Accessibility%20Testing%20Training%20for%20Libraries%20Staff.pdf)
+
 Andy Andrews, UW Libraries Accessibility Coordinator
 #### Description
 The UW Libraries is committed to providing equitable access to digital library resources. With the help of UW-IT’s Assistive Technology Services a small group of library staff created materials to facilitate workshops to train Libraries staff on how to evaluate and test online resources and applications to ensure they are accessible to patrons with disabilities. This presentation will briefly cover the process UW Libraries went through in creating our materials for audit basics, issue logging, and report writing. I will also discuss the value of sharing testing results for our patrons, other institutions, and vendors. 
