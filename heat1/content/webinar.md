@@ -7,6 +7,8 @@ title: "Webinar Archives"
 ### Resources for implementing accessibility and usability testing in libraries
 
 Webinar recording and transcripts coming soon 
+
+[Transcrips of the webinar](https://nwheat.org/documents/07082020_Transcript.pdf)
  
 Andy Andrews, UW Libraries Accessibility Coordinator 
 Hilary Robbeloth, University of Puget Sound System & Discovery Librarian
