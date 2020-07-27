@@ -39,6 +39,8 @@ menu:
     - name: Webinar Archives
       url: /webinar/
       weight: 3
+    - name: Resources
+      url: /post/
 
 
 markup:
