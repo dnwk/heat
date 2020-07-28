@@ -6,3 +6,4 @@ description: "Opportunities to learn more about the creation of, design for, and
 ---
 
 [ADA Compliance for Online Course Design from Educause](https://er.educause.edu/articles/2017/1/ada-compliance-for-online-course-design)
+Opportunities to learn more about the creation of, design for, and/or regulation about accessibility resources in higher education.
