@@ -1,5 +1,5 @@
 ---
-title: Accessibility Training by University of Washington
+title: Accessibility Self-Paced Training from University of Washington
 description: Accessibility resource
 tags:
   - Accessibility
