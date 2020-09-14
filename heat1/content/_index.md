@@ -15,7 +15,7 @@ To subscribe, send an email to nwheat+subscribe@groups.io
 
 ### Using Universal Design for Learning to Promote Student Learning and Engage Learners Where They Are
 
-#### October 21, 2020 11am  
+#### October 21, 2020 11am Pacific Time
 [RSVP](https://www.zoom.us/meeting/register/tJUodeipqzstGdfpExgcRTYYTjHiEaYp5GfJ)
 
 #### Description
