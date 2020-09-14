@@ -28,8 +28,8 @@ At the end of this presentation, learners will be able to:
 * Apply UDL guidelines into teaching and learning scenarios
 
 #### Presenter
-Ana Thompson CPACC 
-Learning & Access Designer
+Ana Thompson CPACC, Learning & Access Designer
+
 University of Washington Bothell
 
 #### Presenter Biography
