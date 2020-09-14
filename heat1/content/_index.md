@@ -21,16 +21,13 @@ To subscribe, send an email to nwheat+subscribe@groups.io
 #### Description
 Institutions often wrestle with selecting and supporting solutions that not only support learning, but are effective, affordable, accessible and easy to integrate with current processes. The modern classroom and professional development environments demand that we use available tools to support a learning style that is active, inclusive and learner-centered. Enter: Universal Design for Learning (UDL). In this presentation we’ll learn of UDL emergence from Universal Design (UD); how to integrate UDL principles into teaching, training or presenting; provide guidance on how accessibility and UDL work together and explore practical application examples.  
 
-
 #### Learning Outcomes
 At the end of this presentation, learners will be able to:
 * Identify Universal Design principles
 * Describe Universal Design for Learning (UDL)
 * Apply UDL guidelines into teaching and learning scenarios
 
-
 #### Presenter
-
 Ana Thompson CPACC 
 Learning & Access Designer
 University of Washington Bothell
