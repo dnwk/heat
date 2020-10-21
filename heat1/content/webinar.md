@@ -1,13 +1,37 @@
 ---
-date: "2020-05-01"
-title: "Webinar Archives"
+title: Webinar Archives
+date: 2020-05-01
 ---
+## Oct 21, 2020, 11 am
+###Using Universal Design for Learning to Promote Student Learning and Engage Learners Where They Are
+
+[Slides](http://bit.ly/nwheat-udl)
+[Recordings of the webinar](https://drive.google.com/file/d/1mef-5r2mW21fOjuxUmL1MfjCUR1ZfJjr/view?usp=sharing)
+
+##### Description
+Institutions often wrestle with selecting and supporting solutions that not only support learning, but are effective, affordable, accessible and easy to integrate with current processes. The modern classroom and professional development environments demand that we use available tools to support a learning style that is active, inclusive and learner-centered. Enter: Universal Design for Learning (UDL). In this presentation we’ll learn of UDL emergence from Universal Design (UD); how to integrate UDL principles into teaching, training or presenting; provide guidance on how accessibility and UDL work together and explore practical application examples.  
+
+##### Learning Outcomes
+At the end of this presentation, learners will be able to:
+* Identify Universal Design principles
+* Describe Universal Design for Learning (UDL)
+* Apply UDL guidelines into teaching and learning scenarios
+
+##### Presenter
+Ana Thompson CPACC, Learning & Access Designer
+
+University of Washington Bothell
+
+##### Presenter Biography
+Ana Thompson has worked in higher education for the last 19 years in the areas of IT, tech support, digital/online learning, database and system administrator, strategic planning, accessibility, instructional design, and as affiliate faculty. Currently, she is the lead of the Universal Design for Active Learning (UDAL) campus initiative, chairs the Campus Accessibility Committee, represents Bothell in the UW IT Accessibility Tri-Campus Task Force, and is a member of the Learning Spaces Design Team at the University of Washington Bothell campus. Prior to UW, Ana was an Instructional Design Consultant at Boise State University and the Director of Distance Education at Casper College in Wyoming.
+
+
 ## July 8, 2020, 11 a.m. 
 
 ### Resources for implementing accessibility and usability testing in libraries
 
 
-[Transcrips of the webinar](https://nwheat.org/documents/07082020_Transcript.pdf)
+[Transcripts of the webinar](https://nwheat.org/documents/07082020_Transcript.pdf)
 
 [Recordings of the webinar](https://drive.google.com/file/d/1xFOfTDxC8gPkGFTd6BZvnbG8x4Wr2aUp/view?usp=sharing)
 
