@@ -16,9 +16,6 @@ To subscribe, send an email to nwheat+subscribe@groups.io
 ### Future webinars will be announced soon. Stay tuned. 
 
 
-### Using Universal Design for Learning to Promote Student Learning and Engage Learners Where They Are
 
-#### October 21, 2020 11am Pacific Time
-
-Recording of this webinar is available in Webinar Archives.
+Recording of "Using Universal Design for Learning to Promote Student Learning and Engage Learners Where They Are" webinar is now available in Webinar Archives.
 

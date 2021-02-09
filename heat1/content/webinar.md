@@ -3,9 +3,10 @@ title: Webinar Archives
 date: 2020-05-01
 ---
 ## Oct 21, 2020, 11 am
-###Using Universal Design for Learning to Promote Student Learning and Engage Learners Where They Are
+### Using Universal Design for Learning to Promote Student Learning and Engage Learners Where They Are
 
 [Slides](http://bit.ly/nwheat-udl)
+
 [Recordings of the webinar](https://drive.google.com/file/d/1mef-5r2mW21fOjuxUmL1MfjCUR1ZfJjr/view?usp=sharing)
 
 ##### Description
