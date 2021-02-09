@@ -18,6 +18,7 @@ Contact: contact@nwheat.org
 - Ann Harris, University of Portland
 - Gloria Doherty, Georgefox University
 - Sasi Pillay, Washington State University
+- Russ Poulin, WCET - the WICHE Cooperative for Educational Technologies
 - Wendy Steele, Washington State University
 
 
