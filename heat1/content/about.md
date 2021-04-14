@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2020-04-22
+date: 2021-04-14T22:00:23.168Z
 ---
 
 The Orbis Cascade Alliance (Alliance) and Northwest Academic Computing Consortium (NWACC) are working together to further our common goal of ensuring that digital resources and services are accessible to our users. A joint Accessibility Working Group (AWG) was formed to develop collaborative activities related to support for digital accessibility. The first outcome of this AWG was the 1st accessibility workshop event in 2019.  This website has been created to curate relevant resources, announcing engaging webinars, and additional features currently in development.
