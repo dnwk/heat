@@ -21,6 +21,7 @@ params:
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: true
+  showThemeSwitcher: false
 
 menu:
   nav:
