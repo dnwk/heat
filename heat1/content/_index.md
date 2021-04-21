@@ -32,6 +32,11 @@ Kathryn Oleson,
 Dean of the Faculty and Professor of Psychology
 
 Reed College
-#### Webinar description coming soon
 
+#### Webinar Description
+This webinar focuses on ways to support faculty and students’ classroom experiences in higher education. I consider students’ backgrounds, including class, race, disability, and gender, and center primary needs (competence, autonomy, belonging) and concerns (e.g., self doubt about ability, impostor feelings, and stereotype threat) that students bring to the classroom. I then draw on universally-designed learning in combination with educational design rooted in social justice and multiculturalism to describe ways to design in-person and online spaces in which students flourish academically. I encourage webinar participants to reflect on their own approaches and think through how these ideas are most productively applied to their institutions.
+
+
+#### Presenter Biography
+Kathryn (Kathy) Oleson, Dean of the Faculty and Professor of Psychology at Reed College.  Kathy was appointed Dean of the Faculty in July 2020. She joined the Reed faculty in 1995 as a professor of psychology. She earned a MA and PhD in Social Psychology from Princeton University and a BA in psychology from the University of Kansas. She served as a National Institute of Mental Health Postdoctoral Fellow at Ohio State University from 1993 to 1995. From July 2014 to June 2016, she served as the founding director of the Center for Teaching and Learning at Reed College. She has been Associate Editor of the journal Basic and Applied Social Psychology and co-editor (with Robert Arkin and Patrick Carroll) of the Handbook of the Uncertain Self. Her current research primarily explores ways to make the college classroom more inclusive, with a particular focus on productive and unproductive discomfort. Her book Promoting Inclusive Classroom Dynamics in Higher Education: A Research-Based Pedagogical Guide for Faculty (Stylus Publishing) was published in fall 2020.
 
