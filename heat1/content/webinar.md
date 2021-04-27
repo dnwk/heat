@@ -2,6 +2,18 @@
 title: Webinar Archives
 date: 2020-05-01
 ---
+### April 27th, 2021, 11am
+### Accessibility in Procurement: How to Read a VPAT
+[Recordings](https://drive.google.com/file/d/1R0ilqUrk3SJp07ISZWHYKkZGa2wCbwIL/view?usp=sharing)
+
+[Slides](/images/procurement-readingvpat_4-27-21.pdf)
+
+Anyone who makes IT procurement decisions is assuming risk on behalf of their library, university, or organization. As the risk owner, you must take steps to ensure the product or service you're procuring is accessible to all users, including those with disabilities. How do you do that? A standard form used by IT vendors to document their level of accessibility is the Voluntary Product Accessibility Template (VPAT). This session will explore VPATs in detail and provide guidance on how to read them, and what you can learn from them, without being an accessibility expert.
+
+#### Presenter Bio
+
+Terrill Thompson is manager of the IT Accessibility Team at  the University of Washington, a role in which he works to promote IT accessibility by building community, developing resources, delivering lectures and workshops, conducting accessibility evaluations, providing consultation and support to a wide variety of constituents, and conducting research. Terrill has nearly thirty years of experience in the IT accessibility field, and has presented internationally at numerous conferences and consulted widely with local and state government, private industry, and K-12 and postsecondary education entities on IT accessibility issues.
+
 ## Oct 21, 2020, 11 am
 ### Using Universal Design for Learning to Promote Student Learning and Engage Learners Where They Are
 
