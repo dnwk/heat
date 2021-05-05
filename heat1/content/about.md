@@ -3,7 +3,9 @@ title: About
 date: 2021-04-14T22:00:23.168Z
 ---
 
-The Orbis Cascade Alliance (Alliance) and Northwest Academic Computing Consortium (NWACC) are working together to further our common goal of ensuring that digital resources and services are accessible to our users. A joint Accessibility Working Group (AWG) was formed to develop collaborative activities related to support for digital accessibility. The first outcome of this AWG was the 1st accessibility workshop event in 2019.  This website has been created to curate relevant resources, announcing engaging webinars, and additional features currently in development.
+# Mission Statement
+
+NWHeat is a collaboration between Orbis Cascade Alliance and NorthWest Academic Computing Consortium (NWACC) to advance our common goal of ensuring digital services, information systems, learning technologies, instructional and scholarly resources are equitably accessible to all users. Our overarching goal is to cultivate a community of practice among faculty and staff supporting digital accessibility on their campuses through a series of professional development opportunities and by facilitating sharing of best practices, knowledge and resources.
 
 Contact: contact@nwheat.org
 
