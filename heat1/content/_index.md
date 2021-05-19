@@ -19,7 +19,7 @@ To subscribe, send an email to nwheat+subscribe@groups.io
 #### Presenter
 Kathryn (Kathy) Oleson, Dean of the Faculty and Professor of Psychology at Reed College.
 
-Kathy was appointed Dean of the Faculty in July 2020. She joined the Reed faculty in 1995 as a professor of psychology. She earned a MA and PhD in Social Psychology from Princeton University and a BA in psychology from the University of Kansas. From July 2014 to June 2016, she served as the founding director of the Center for Teaching and Learning at Reed College. Her current research primarily explores ways to make the college classroom more inclusive, with a particular focus on productive and unproductive discomfort. Her book Promoting Inclusive Classroom Dynamics in Higher Education: A Research-Based Pedagogical Guide for Faculty (Stylus Publishing) was published in fall 2020.
+Kathy was appointed Dean of the Faculty in July 2020. She joined the Reed faculty in 1995 as a professor of psychology. She earned a MA and PhD in Social Psychology from Princeton University and a BA in psychology from the University of Kansas. From July 2014 to June 2016, she served as the founding director of the Center for Teaching and Learning at Reed College. Her current research primarily explores ways to make the college classroom more inclusive, with a particular focus on productive and unproductive discomfort. Her book _Promoting Inclusive Classroom Dynamics in Higher Education: A Research-Based Pedagogical Guide for Faculty_ (Stylus Publishing) was published in fall 2020.
 
 
 
