@@ -4,7 +4,7 @@ defaultContentLanguage: en
 title: Northwest Higher Education Accessibility Technology Group
 theme: cupper-hugo-theme
 enableGitInfo: true
-search: true
+googleAnalytics: UA-172685129-1
 
 taxonomies:
   tag: tags
@@ -23,6 +23,7 @@ params:
   codePenUser: someUser
   katex: true
   showThemeSwitcher: false
+  search: true
 
 menu:
   nav:
@@ -79,4 +80,4 @@ sitemap:
   changefreq: weekly
   filename: sitemap.xml
   priority: 0.5
-googleAnalytics: UA-172685129-1
+
