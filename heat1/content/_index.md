@@ -16,6 +16,8 @@ To subscribe, send an email to nwheat+subscribe@groups.io
 #### June 9 2021, 11am – noon via Zoom
 [RSVP](https://whitman.zoom.us/meeting/register/tJIpcO2pqTMsE9EHYNutonJL8F1d0cYFDhAE) Required
 
+[Slides](/images/olesoncreatinginclusiveclassroomspacesnwheat-06092021.pdf)
+
 #### Presenter
 Kathryn (Kathy) Oleson, Dean of the Faculty and Professor of Psychology at Reed College.
 
