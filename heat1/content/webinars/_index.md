@@ -1,3 +1,3 @@
 ---
-title: Webinar Archives
+title: Past Webinars
 ---
