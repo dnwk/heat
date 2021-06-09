@@ -11,7 +11,8 @@ taxonomies:
 
 permalinks:
   post: /:filename/
-
+  webinars: /:filename/
+  
 imaging:
   quality: 99
 
@@ -42,6 +43,9 @@ menu:
     - name: Webinar Archives
       url: /webinar/
       weight: 3
+    - name: Past Webinars
+      url: /webinars/
+      weight: 4
     - name: Resources
       url: /post/
 
