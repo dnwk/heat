@@ -6,6 +6,8 @@ date: 2021-06-09T20:19:23.444Z
 ### Creating inclusive classroom spaces in which students thrive
 [Recordings](https://drive.google.com/file/d/1wmRtglljag13MqK0MgGu4D_RuKn6rgu4/view?usp=sharing)
 
+[Transcription](/documents/transcription_20210609.pdf)
+
 [Slides](/images/olesoncreatinginclusiveclassroomspacesnwheat-06092021.pdf)
 
 #### Presenter
