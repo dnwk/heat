@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: dnwk/heat
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "/static/images"
