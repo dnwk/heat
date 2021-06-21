@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: dnwk/heat
+  base_url: https://nwheat.netlify.app/
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "/static/images"
 public_folder: "/images"
