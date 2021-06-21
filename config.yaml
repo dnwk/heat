@@ -1,0 +1,87 @@
+baseURL: https://nwheat.org
+languageCode: en-us
+defaultContentLanguage: en
+title: Northwest Higher Education Accessibility Technology Group
+theme: cupper-hugo-theme
+enableGitInfo: true
+googleAnalytics: UA-172685129-1
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+  webinars: /:filename/
+  
+imaging:
+  quality: 99
+
+params:
+  description: "Northwest Higher Education Accessibility Technology Group <br/> <br/> Joint Project between Orbis Cascade Alliance and Northwest Academic Computing Consortium."
+  homeMetaContent: H.E.A.T would welcome you to join our journey to provide a more accessibile higher educational technology.
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: Jan 2, 2006
+  codePenUser: someUser
+  katex: true
+  showThemeSwitcher: false
+  search: true
+
+menu:
+  nav:
+    - name: Home
+      url: /
+      weight: 1
+  #  - name: Blog
+  #    url: /post/
+  #    weight: 2
+  #  - name: Tags
+  #    url: /tags/
+  #    weight: 3
+    - name: About
+      url: /about/
+      weight: 2
+    - name: Webinar Archives
+      url: /webinar/
+      weight: 3
+    - name: Past Webinars
+      url: /webinars/
+      weight: 4
+    - name: Resources
+      url: /post/
+
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
+
