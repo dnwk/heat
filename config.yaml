@@ -18,7 +18,7 @@ imaging:
 
 params:
   description: "Northwest Higher Education Accessibility Technology Group <br/> <br/> Joint Project between Orbis Cascade Alliance and Northwest Academic Computing Consortium."
-  homeMetaContent: H.E.A.T would welcome you to join our journey to provide a more accessibile higher educational technology.
+  homeMetaContent: H.E.A.T would welcome you to join our journey to provide a more accessible higher educational technology.
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
