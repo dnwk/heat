@@ -21,7 +21,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --gc --themesDir ../themes
+        run: cd heat1 && hugo --gc --themesDir ../themes
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
