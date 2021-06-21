@@ -40,15 +40,12 @@ menu:
     - name: About
       url: /about/
       weight: 2
-    - name: Webinar Archives
-      url: /webinar/
-      weight: 3
     - name: Past Webinars
       url: /webinars/
-      weight: 4
+      weight: 3
     - name: Resources
       url: /post/
-
+      weight: 4
 
 markup:
   defaultMarkdownHandler: goldmark
